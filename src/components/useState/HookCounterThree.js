@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
 /*
-* Spread Operator - "...name"
+* useSate with objects method along with a Spread Operator - "...name".
 */
 
 function HookCounterThree() {
