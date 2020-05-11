@@ -5,6 +5,7 @@ import Button from "./Button";
 
 /*
 * useCallback method to optimize the function & to avoid the unwanted re-rendering.
+* if you need to cash a fuction use 'useCallback'.
 */
 
 function ParentComponent() {
