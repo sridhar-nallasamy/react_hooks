@@ -1,11 +1,13 @@
 import React from "react";
 import "./App.css";
-import Counter from "./components/useMemo/Counter";
+import ClassTimer from "./components/useRef/ClassTimer";
+import HookTimer from "./components/useRef/HookTimer";
 
 function App() {
   return (
     <div className="App">
-      <Counter />
+      <ClassTimer />
+      <HookTimer />
     </div>
   );
 }
