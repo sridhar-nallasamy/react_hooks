@@ -2,7 +2,7 @@ import React from "react";
 import {
   UserContext,
   ChannelContext,
-} from "D:/Survival/Web Technology/JavaScript/React/Practice/hooks/src/App.js";
+} from "../../App";
 
 /*
  * normal method to get the valuse which is passed through 'UserContext.Provider'.
